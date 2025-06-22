@@ -8,7 +8,7 @@ O projeto foi desenvolvido utilizando a **IDE Eclipse**, com a biblioteca padrã
 
 ## 🎮 Sobre o Jogo
 
-Você controla uma nave espacial que deve sobreviver e eliminar inimigos pelo espaço. O jogo conta com movimentação, disparos e colisões simples entre naves.
+Você controla uma nave espacial que deve sobreviver e eliminar inimigos pelo espaço. O jogo conta com movimentação, disparos e colisões simples.
 
 ---
 
@@ -32,7 +32,7 @@ Você controla uma nave espacial que deve sobreviver e eliminar inimigos pelo es
 
 ## 📸 Imagem de exemplo
 
-_(Adicione aqui uma imagem futuramente, se desejar)_
+![Screenshot do Jogo](ImgExemplo.png)
 
 ---
 
@@ -49,7 +49,7 @@ _(Adicione aqui uma imagem futuramente, se desejar)_
 
 **Gabriela Schumacher**  
 📍 Brasil  
-🔗 [Meu LinkedIn](https://www.linkedin.com/in/gabrielaschumacher) _(adicione se quiser)_
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/gabrielaschumacher)
 
 ---
 
