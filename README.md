@@ -8,7 +8,7 @@ O projeto foi desenvolvido utilizando a **IDE Eclipse**, com a biblioteca padrã
 
 ## 🎮 Sobre o Jogo
 
-Você controla uma nave espacial que deve sobreviver e eliminar inimigos pelo espaço. O jogo conta com movimentação, disparos e colisões simples.
+Você controla uma nave espacial que deve sobreviver e eliminar inimigos pelo espaço. O jogo conta com movimentação, disparos e colisões simples entre naves.
 
 ---
 
@@ -30,9 +30,40 @@ Você controla uma nave espacial que deve sobreviver e eliminar inimigos pelo es
 
 ---
 
-## 📸 Imagem de exemplo
+## 🖼️ Imagem de exemplo
 
-![Screenshot do Jogo](ImgExemplo.png)
+![Gameplay](ImgExemplo.png)
+
+---
+
+## ▶️ Como iniciar o jogo
+
+Para jogar, você precisa ter o **Java JDK 21** instalado na sua máquina.  
+Você pode baixar a versão mais recente aqui:  
+👉 [https://jdk.java.net/21/](https://jdk.java.net/21/)
+
+### Executar o jogo via terminal (Bash ou Prompt de Comando)
+
+1. Baixe ou clone este repositório:
+
+   ```bash
+   git clone https://github.com/GabiCodings/NaveEspacial.git
+   cd NaveEspacial/Jogo\\ Executavel
+   ```
+
+2. Verifique se você tem o Java instalado (versão 21 ou superior):
+
+   ```bash
+   java -version
+   ```
+
+3. Inicie o jogo com o comando:
+
+   ```bash
+   java -jar NaveEspacial.jar
+   ```
+
+> **Importante:** Certifique-se de que a **pasta `res/` esteja no mesmo diretório do `.jar`**, como já está na pasta `Jogo Executavel`, para que as imagens carreguem corretamente durante o jogo.
 
 ---
 
@@ -49,8 +80,9 @@ Você controla uma nave espacial que deve sobreviver e eliminar inimigos pelo es
 
 **Gabriela Schumacher**  
 📍 Brasil  
-🔗 [Meu LinkedIn](https://www.linkedin.com/in/gabrielaschumacher)
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/gabriela-schumacher-neves/)
 
 ---
 
 > Obrigada por visitar o repositório! Fique à vontade para dar sugestões ou acompanhar a evolução do projeto.
+> """
